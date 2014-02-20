@@ -1,3 +1,9 @@
+Modern theme 3.0.2 5:24pm 20-02-2014
+------------------------- 
+- Added Drag&Drop image uploader // by Max Future // 
+Valid extensions: .png, .gif, .jpg, .jpeg 
+(Added parts: functions.php/item-post.php/item-edit.php/style.css)
+
 Modern theme 3.0.2 2013-09-25
 ------------------------
 - Fixed category dropdown issues when edit listings.
